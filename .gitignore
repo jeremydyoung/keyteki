@@ -15,5 +15,5 @@ build/
 !tsconfig.json
 data
 mongodb
-
+out/
 /.idea/
